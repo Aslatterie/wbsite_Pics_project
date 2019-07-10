@@ -1,0 +1,42 @@
+
+h1 {color:lightpink;
+}
+.container{border:2px double;
+margin-right: 610px;
+display: flex;
+flex-wrap: wrap;
+align-contents: center;
+}
+.hutter {height: 200px;
+  width:275px;
+}
+.park {height: 200px;
+  width:275px;
+}
+.girl{height:400px;
+width:250px;
+}
+.group2{ border:2px double; color:black;
+  margin-right:610px;
+}
+.boy {height:400px;
+width:250px;
+}
+.heart{ height:200px;
+width:275px;
+}
+.meadow { height:200px;
+width:275px;}
+.group3{border:2px double;
+margin-right:610px;
+display: flex;
+}
+.scream{height:400px;
+width:250px;
+}
+.houses{height:200px;
+width:275px;
+}
+.flowers{height:200px;
+width:275px;
+}
